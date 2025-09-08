@@ -38,7 +38,7 @@ function App() {
   return (
     <div className="app">
       <div className="header">
-        <h2>Deixe sua avialção</h2>
+        <h2>Deixe sua avaliação</h2>
         <p>
           Ficamos felizes com sua compra, utilize o formulario abaixo para
           avaliar o produto
